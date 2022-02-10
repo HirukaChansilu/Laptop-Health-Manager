@@ -24,7 +24,3 @@ class Notifications():
                 "\\", "/") + "/Assests/plug_in.ico",
             timeout=self.timeout
         )
-
-
-m = Notifications()
-m.plug_in()

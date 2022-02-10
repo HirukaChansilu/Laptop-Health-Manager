@@ -62,7 +62,7 @@ Likewise...
 
 <hr>
 
-Then Create a Shortcut of launcher.vbs and put it in the startup Folder to Run the Program On Startup
+Then Copy the Launcher_of_notifications.vbs and paste in the startup Folder to Run the Program On Startup
 
 - To get the startup Folder
 
