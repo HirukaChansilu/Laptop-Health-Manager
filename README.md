@@ -2,7 +2,7 @@
 
 A python Program that runs on Background and Reminds you to keep your Laptop Healthy.
 
-> Reference: [Whatsbyte.com](https://i.ibb.co/CwtnjC4/Screenshot-2022-02-11-074627.jpg > https://i.ibb.co/0MbGD5z/Screenshot-2022-02-11-074654.jpg)
+> Reference: [Whatsbyte.com](https://whatsabyte.com/40-80-battery-rule-laptops)
 
 <hr>
 
