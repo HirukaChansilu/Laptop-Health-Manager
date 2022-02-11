@@ -2,7 +2,7 @@
 
 A python Program that runs on Background and Reminds you to keep your Laptop Healthy.
 
-> Reference: [Wired](https://www.wired.com/2013/09/laptop-battery/#:~:text=Keeping%20Your%20Laptop%20Plugged%20in%20All%20the%20Time%20Will%20Kill%20Its%20Battery%20Faster,-Laptops%20are%20our&text=In%20order%20to%20squeeze%20as,should%20unplug%20it%20before%20that)
+> Reference: [Whatsbyte.com](https://i.ibb.co/CwtnjC4/Screenshot-2022-02-11-074627.jpg > https://i.ibb.co/0MbGD5z/Screenshot-2022-02-11-074654.jpg)
 
 <hr>
 
@@ -89,5 +89,9 @@ pip install psutil
 ```
 
 <hr>
+
+![alert](https://i.ibb.co/0MbGD5z/Screenshot-2022-02-11-074654.jpg)
+
+![alert](https://i.ibb.co/CwtnjC4/Screenshot-2022-02-11-074627.jpg)
 
 A Project by [Hiruka Chansilu](https://hirukachansilu.tk)©
